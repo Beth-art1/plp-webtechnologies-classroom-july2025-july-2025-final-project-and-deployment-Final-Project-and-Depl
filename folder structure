@@ -1,0 +1,11 @@
+/my-website
+    /css
+        style.css
+    /js
+        script.js
+    /images
+        hero.jpg
+    index.html
+    about.html
+    contact.html
+    README.md
